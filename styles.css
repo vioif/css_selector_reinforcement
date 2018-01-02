@@ -1,0 +1,17 @@
+body p {
+  color: red;
+}
+
+a:hover {
+  color: teal;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  width: 100%;
+}
